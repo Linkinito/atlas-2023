@@ -1,0 +1,110 @@
+{
+	"id": -1,
+	"name": "Citroën 2CV",
+	"description": "The Citroën 2CV (\"deux-chevaux\") is a french car produced between 1948 and 1990. It's considered as one of the most iconic french cars ever produced due to its popularity and use. It has sold more than 5 million units in more than 40 years, and is a cherished piece of the french automotive history.",
+	"links": {
+		"subreddit": [
+			"PlaceFR",
+			"france",
+			"2cv"
+		]
+	},
+	"path": {
+		"6-200": [
+			[
+				-441,
+				469
+			],
+			[
+				-441,
+				477
+			],
+			[
+				-436,
+				477
+			],
+			[
+				-434,
+				479
+			],
+			[
+				-432,
+				480
+			],
+			[
+				-427,
+				479
+			],
+			[
+				-425,
+				478
+			],
+			[
+				-407,
+				478
+			],
+			[
+				-405,
+				480
+			],
+			[
+				-401,
+				481
+			],
+			[
+				-398,
+				478
+			],
+			[
+				-397,
+				478
+			],
+			[
+				-400,
+				467
+			],
+			[
+				-402,
+				463
+			],
+			[
+				-406,
+				460
+			],
+			[
+				-411,
+				459
+			],
+			[
+				-418,
+				459
+			],
+			[
+				-422,
+				461
+			],
+			[
+				-426,
+				462
+			],
+			[
+				-428,
+				466
+			],
+			[
+				-438,
+				468
+			],
+			[
+				-441,
+				468
+			]
+		]
+	},
+	"center": {
+		"6-200": [
+			-413,
+			468
+		]
+	}
+}
